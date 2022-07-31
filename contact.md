@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default_style
 title: Contact Us
-permalink: /contact/
+permalink: /contact
 ---
 
 For any query related to our services, for receiving a free consultation or for information about our fee structure;

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Informational Technology Consulting
-permalink: /infotech/
+permalink: /infotech
 ---
 
 - Identifying your business needs with respect to Information Technology
