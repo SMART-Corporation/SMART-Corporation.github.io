@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 SMART Corporation was founded on November 3, 1992 to present a proposal for the “Establishment of a Remote Sensing Station in Venezuela”. Remote Sensing means the acquisition of geographical, climactic, oceanographic, and other related data on a particular region of the earth using existing satellites in low earth orbit (LEO). This would have established cost-effective remote sensing stations in Venezuela and maximized the utilization of local resources to analyze the data for commercial and governmental clients. The system would aid in the successful implementation of projects in monitoring the environment, deforestation, reforestation, and pollution control. The architecture consisted of Sun SPARCstation 2 for processing the data and antennas to capture the data. The team consisted of:
