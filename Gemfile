@@ -20,6 +20,9 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.12"
+   gem 'jekyll-gist'
+   gem 'jekyll-paginate'
+   gem "jekyll-asciidoc"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -43,3 +46,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
  
  # Responsive image
  gem 'jekyll-responsive-image'
+
+# Template specific
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'

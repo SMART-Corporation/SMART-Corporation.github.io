@@ -1,0 +1,37 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: "Areas of Expertise"
+  url: "/expertise/"
+  side: left
+  dropdown:
+  - title: "FinTech Consulting"
+    url: "/fintech/"
+  - title: "TInformation Technology Consulting"
+    url: "/infotech/"
+  - title: "Marketing and Strategy Consulting"
+    url: "/marketing-strategy/"
+  - title: "Operational Consulting"
+    url: "/operational/"
+  - title: "Organizational Consulting"
+    url: "/organizational/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

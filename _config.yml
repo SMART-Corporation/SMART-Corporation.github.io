@@ -37,10 +37,10 @@ google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.283315714
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-responsive-image
   - jekyll-asciidoc
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-responsive-image
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
