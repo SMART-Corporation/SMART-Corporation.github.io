@@ -41,3 +41,5 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
  # Google Analytics
  gem 'jekyll-analytics'
  
+ # Responsive image
+ gem 'jekyll-responsive-image'
