@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default_style
 title: Marketing & Strategic Consulting
-permalink: /marketing-strategy/
+permalink: /marketing-strategy
 ---
 
 - Developing strategic vision for your organization 

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default_style
 title: Organizational Consulting
-permalink: /organizational/
+permalink: /organizational
 ---
 
 - Freeing business owner’s time by implementing a self functioning hierarchy  

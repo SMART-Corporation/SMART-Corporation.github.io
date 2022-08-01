@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default_style
 title: FinTech Consulting
-permalink: /fintech/
+permalink: /fintech
 ---
 
 - Financing options per your business needs and strategy– IPO, Bank debt, corporate bonds etc.

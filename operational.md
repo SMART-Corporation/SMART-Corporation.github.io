@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default_style
 title: Operational Consulting
-permalink: /operational/
+permalink: /operational
 ---
 
 - Production targets realizations

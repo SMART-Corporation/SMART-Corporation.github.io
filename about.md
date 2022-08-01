@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_style
 title: About
 permalink: /about
 ---
