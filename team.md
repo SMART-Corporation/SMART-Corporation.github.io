@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: default_style
 title: Management Team
-permalink: /team/
+permalink: /team
 ---
 
 ## Zaki Alam
