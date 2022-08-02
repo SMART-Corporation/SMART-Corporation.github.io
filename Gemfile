@@ -45,6 +45,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
  gem 'jekyll-analytics'
  
  # Responsive image
+ gem 'rmagick'
  gem 'jekyll-responsive-image'
 
 # Template specific

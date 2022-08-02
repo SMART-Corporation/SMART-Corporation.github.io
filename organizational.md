@@ -1,5 +1,5 @@
 ---
-layout: default_style
+layout: page
 title: Organizational Consulting
 permalink: /organizational
 ---
