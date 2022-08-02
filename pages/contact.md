@@ -17,8 +17,7 @@ Fax: +1-901-284-6600<br>
 
 ## Southeast Asian Operations:
 26-G Banani Model Town<br>
-Road No. 7<br>
-Dhaka-1212<br>
+Road No. 7, Dhaka-1212<br>
 Bangladesh<br>
 Tel: +880-2-8824560<br>
 Fax: +880-2-8821414<br>

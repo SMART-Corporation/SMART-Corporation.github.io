@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
+subheadline: "How to use SMART Corp"
 teaser: "The documentation is a work in progress..."
 permalink: "/documentation/"
 header:
@@ -24,11 +24,11 @@ header:
 
 ## Edit Navigation   {#edit-navigation}
 
-To customize the navigation of *Feeling Responsive*, you have to open the [YAML](https://jekyllrb.com/docs/datafiles/)-file `_data/navigation.yml`. Edit the data and adjust it to your own needs.
+To customize the navigation of *SMART Corp*, you have to open the [YAML](https://jekyllrb.com/docs/datafiles/)-file `_data/navigation.yml`. Edit the data and adjust it to your own needs.
 
 ## Different Page/Posts Formats   {#formats}
 
-*Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
+*SMART Corp* supports you with different templates for your content. These are the actual page/post formats:
 
 ### Page/Post
 The [page/post format]({{ site.url }}{{ site.baseurl }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
@@ -66,7 +66,7 @@ use in front matter via: `layout: video`
 
 ## Style your content with   {#styling}
 
-Feeling Responsive offers lots of possibilities to style your articles. You can style your content in different ways. There are elements like subheadlines, feature images, header images, homepage images, meta data like categories and tags and many more.
+SMART Corp offers lots of possibilities to style your articles. You can style your content in different ways. There are elements like subheadlines, feature images, header images, homepage images, meta data like categories and tags and many more.
 
 
 ### subheadlines
@@ -94,7 +94,7 @@ Quotes mix it up a little bit, if you write long articles. So use quotes:
 
 ## Comments
 
-You can use comments with *Feeling Responsive* by the way of Disqus. If you want to use Disqus-Comments just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
+You can use comments with *SMART Corp* by the way of Disqus. If you want to use Disqus-Comments just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
 
 By default comments are turned off. You can customize the default behaviour in `config.yml`. To **turn on comments** just add `comments: true` to front matter using the page layout `layout: page`. 
 
@@ -145,7 +145,7 @@ image:
 
 ### Homepage Image
 
-If you want to feature an article on the homepage with a huge image, then use the homepage image with a width of 970 pixels. If no homepage image is defined *Feeling Responsive* writes instead *New Blog Articles* over the blog entries. Define the homepage image like this:
+If you want to feature an article on the homepage with a huge image, then use the homepage image with a width of 970 pixels. If no homepage image is defined *SMART Corp* writes instead *New Blog Articles* over the blog entries. Define the homepage image like this:
 
 ~~~
 image:
@@ -154,7 +154,7 @@ image:
 
 ### Captions with URL
 
-Sometimes you want to give credit to the creator of your images, maybe with a link. Especially when you use Creative Commons-images like I do for this website. Just add the following front matter and *Feeling Responsive* does the rest:
+Sometimes you want to give credit to the creator of your images, maybe with a link. Especially when you use Creative Commons-images like I do for this website. Just add the following front matter and *SMART Corp* does the rest:
 
 ~~~
 image:
@@ -281,17 +281,17 @@ This include lets you easily display an alert. To use the include no `.html` end
 You can even use `<html>`-tags inside the alert. Beware: Use " and ' properly.
 
 ~~~
-{% raw %}{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}{% endraw %}
+{% raw %}{% include alert info='<em>SMART Corp</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}{% endraw %}
 ~~~
 
-{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}
+{% include alert info='<em>SMART Corp</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 ## Javascript/Foundation modules
 
-*Feeling Responsive* uses the foundation framework and some of its javascript components. I reduced the modules, to decrease page load and make the theme faster.
+*SMART Corp* uses the foundation framework and some of its javascript components. I reduced the modules, to decrease page load and make the theme faster.
 
 I only added one other javascript-module: [`backstretch`][3] by Scott Robbin. These modules are currently used by the theme and included in `javascript.min.js`. There is also a non-minified version, if you want to take a closer look: `javascript.js`.
 
