@@ -28,7 +28,7 @@ slogan: 'Building the Next Wave of Technology together'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/SMART-Corportion/smart-corporation.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -36,7 +36,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/images/'
+urlimg: 'https://smart-corporation.github.io/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -49,8 +49,6 @@ fax_number: +1.555.555.5555
 company_email: info@SMART-Corporation.com
 google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.283315714017!2d-71.19454598472583!3d42.442987679181336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e39df875856f09%3A0x96423ac9bb4b9a9!2sSMART%20Corporation!5e0!3m2!1sen!2sus!4v1659290723527!5m2!1sen!2sus
 
-
-
 # Plugins
 markdown: kramdown
 plugins:
@@ -59,6 +57,20 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-responsive-image
+  - jekyll-analytics
+
+#
+#       ___                __      __  _          
+#      /   |  ____  ____ _/ /_  __/ /_(_)_________
+#     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
+#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  ) 
+#   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/  
+#                        /____/                   
+#
+GoogleAnalytics:          # Add, if you want to track with Google Analytics
+  id: UA-12345678-1        # Required - replace with your tracking id
+  anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -125,7 +137,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: ZAlam     # Default author for pages
   -
     scope:
       path: ''
@@ -134,7 +146,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: ZAlam     # Default author for posts
 
 
 
@@ -190,7 +202,7 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image                             : 'http://images.ZAlam.de/ZAlam/ZAlam_de-logo-512x.png'
 og_locale                            : 'en_EN'
 og_type                              : 'website'
 
