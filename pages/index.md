@@ -8,4 +8,4 @@ The corporate world is a not a unique place.  Each company has problems that are
 
 At SMART Corporation, we specialize in Infrastructure (Security, Network, and Enterprise System) Architecture, Business Solutions, Performance Engineering, and Office Automation.  We work with our client’s to bring their thoughts into reality.  We have partnership with premier solution providers (off-shore as well as near-shore) to be able to provide application development.  We bring over 20 years of industry experience and best practices to make our clients gain competitive edge over their competitors.  Our knowledge in today’s technologies coupled with our past experiences, guide us to providing the targeted solution our clients so desire.
 
-Our mission is to provide Secure, Manageable, Attainable, Repeatable, Traceable (SMARTTM) Infrastructure solution to our clients.  Our client base includes Fortune 100 companies as well as small companies.
+Our mission is to provide Secure, Manageable, Attainable, Repeatable, Traceable (SMART<sup>TM</sup>) Infrastructure solution to our clients.  Our client base includes Fortune 100 companies as well as small companies.
