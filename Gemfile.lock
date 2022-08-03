@@ -35,7 +35,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-analytics (0.1.14)
     jekyll-asciidoc (3.0.0)
       asciidoctor (>= 1.5.0)
       jekyll (>= 3.0.0)
@@ -104,7 +103,6 @@ DEPENDENCIES
   coderay (= 1.1.1)
   http_parser.rb (~> 0.6.0)
   jekyll (= 4.2.2)
-  jekyll-analytics
   jekyll-asciidoc
   jekyll-feed (~> 0.12)
   jekyll-gist
