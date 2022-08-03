@@ -75,9 +75,10 @@ plugins:
 #   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/  
 #                        /____/                   
 #
-GoogleAnalytics:          # Add, if you want to track with Google Analytics
-  id: G-H305L1HFPH        # Required - replace with your tracking id
-  anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-H305L1HFPH        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 
 #       ____              _             __  _
