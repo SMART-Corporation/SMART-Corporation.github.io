@@ -2,6 +2,8 @@
 layout: page
 title: Management Team
 permalink: /team
+header:
+    image_fullwidth: "header_mgmt_team.jpg"
 ---
 
 ## Zaki Alam

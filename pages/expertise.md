@@ -2,6 +2,8 @@
 layout: page
 title: Areas of Expertise
 permalink: /expertise
+header:
+    image_fullwidth: "header_expertise.jpg"
 ---
 
 We have expertise on complete business chain and can help you in varied areas of your business. A few of them are mentioned below for your reference..

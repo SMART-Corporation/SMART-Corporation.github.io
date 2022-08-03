@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Operational Consulting
+title: Operational Excellence Consulting
 permalink: /operational
+header:
+    image_fullwidth: "header_operational.jpg"
 ---
 
 - Production targets realizations

@@ -2,6 +2,8 @@
 layout: page
 title: Informational Technology Consulting
 permalink: /infotech
+header:
+    image_fullwidth: "header_infotech.jpg"
 ---
 
 - Identifying your business needs with respect to Information Technology

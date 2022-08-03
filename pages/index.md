@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: frontpage
 title: SMART Corporation
 permalink: /
+header:
+    image_fullwidth: "header_iceburg.jpg"
 ---
 
 The corporate world is a not a unique place.  Each company has problems that are at one instance uncommon from all other organizations at the same time similar to many others.  We at SMART Corporation partner with our clients to identify the business challenges facing their lives and assist them in solving them with the right technical solution.  We believe there is no one size fits all approach to solving business challenges by leveraging technology.  Technology for technologies sake brings no business value to the corporate world.  In order for companies to succeed, they need to work with business to define the business requirements and then figure out what technology can best solve the requirements.
