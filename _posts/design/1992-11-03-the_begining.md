@@ -4,7 +4,7 @@ title: "The Begining!"
 subheadline: "Portfolio"
 teaser: "<em>SMART Corporation</em> started looking at Low Earch Orbit (LEO) satellites before it was a thing!"
 categories:
-    - design
+    - project
 header:
    image_fullwidth: blog_leo.jpg
 ---
