@@ -6,7 +6,7 @@ on:
   #    - main
   pull_request:
     workflows: ['CodeQL']
-    types: [opened, synchronize, reopened, closed]
+    types: [synchronize, closed]
     branches:
       - main
 
