@@ -65,21 +65,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-responsive-image
-  - jekyll-analytics
-
-#
-#       ___                __      __  _          
-#      /   |  ____  ____ _/ /_  __/ /_(_)_________
-#     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
-#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  ) 
-#   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/  
-#                        /____/                   
-#
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-H305L1HFPH        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -263,7 +248,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: G-H305L1HFPH
 
 
 
