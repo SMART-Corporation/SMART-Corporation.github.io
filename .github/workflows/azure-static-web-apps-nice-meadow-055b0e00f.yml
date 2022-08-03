@@ -2,12 +2,14 @@ name: Azure Static Web Apps CI/CD
 
 on:
   push:
+    workflows: ['CodeQL']
     branches:
       - main
-  pull_request:
-    types: [opened, synchronize, reopened, closed]
-    branches:
-      - main
+  #pull_request:
+  #  workflows: ['CodeQL']
+  #  types: [synchronize, closed]
+  #  branches:
+  #    - main
 
 jobs:
   build_and_deploy_job:
