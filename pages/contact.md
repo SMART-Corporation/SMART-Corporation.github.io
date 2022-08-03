@@ -3,6 +3,8 @@ layout: page
 title: Contact Us
 meta_title: "Contact and use our contact form"
 permalink: /contact
+header:
+    image_fullwidth: "header_contact.jpg"
 ---
 
 For any query related to our services, for receiving a free consultation or for information about our fee structure;
