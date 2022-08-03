@@ -44,7 +44,7 @@ improve_content: https://github.com/SMART-Corportion/smart-corporation.github.io
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://smart-corporation.github.io/images/'
+urlimg: '/assets/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

@@ -2,6 +2,8 @@
 layout: page
 title: Marketing & Strategic Consulting
 permalink: /marketing-strategy
+header:
+    image_fullwidth: "header_marketing_strategy.jpg"
 ---
 
 - Developing strategic vision for your organization 
