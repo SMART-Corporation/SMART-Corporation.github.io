@@ -48,3 +48,7 @@ gem 'jekyll-responsive-image'
 # Template specific
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
+
+# HTTP/REST API client library
+gem 'faraday', '~> 2.5', '>= 2.5.2'
+gem 'faraday-retry', '~> 2.0'
