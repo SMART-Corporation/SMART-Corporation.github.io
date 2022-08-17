@@ -25,3 +25,8 @@ categories: career highlights
     <span class="visually-hidden">Next</span>
   </a>
 </div>
+
+<hr>
+
+<a href="/assets/pdf/Zaki_Alam_Resume.pdf"><img src="/assets/images/download_pdf.svg" width="20px"> Download Zaki Alam Resume (PDF)</a><br>
+<a href="/assets/pdf/Zaki_Alam-Career_Highlights.pdf"><img src="/assets/images/download_pdf.svg" width="20px"> Download Zaki Alam - Career Highlights (PDF)</a>
