@@ -89,16 +89,11 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-	{% if site.google_analytics_tracking_id %}
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', '{{ site.google_analytics_tracking_id }}');
-	</script>
+	{% if site.google_analytics_tracking_id %}
+		{% if jekyll.environment == 'production' %}
+			{% include google_analytics.html %}
+		{% endif %}
 	{% endif %}
 
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
