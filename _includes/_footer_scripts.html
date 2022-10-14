@@ -39,3 +39,9 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 {% endif %}
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+{% if site.google_analytics_tracking_id %}
+    {% if jekyll.environment == 'production' %}
+        {% include google_analytics.html %}
+    {% endif %}
+{% endif %}
