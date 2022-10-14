@@ -89,13 +89,6 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	{% if site.google_analytics_tracking_id %}
-		{% if jekyll.environment == 'production' %}
-			{% include google_analytics.html %}
-		{% endif %}
-	{% endif %}
-
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
