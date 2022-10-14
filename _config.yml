@@ -29,7 +29,7 @@ email: info@SMART-Corporation.com
 description: > # this means to ignore newlines until "baseurl:"
   Some note to go here!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://SMART-Corporation.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Building the Next Wave of Technology together'
@@ -53,7 +53,7 @@ logo: "logo.png"
 company_name: SMART Corporation
 address_line: 8 Fairlawn Ln, Suite 1-101, Lexington, MA 02420-2728, USA
 telephone_number: +1.781.266.2004
-fax_number: +1.555.555.5555
+fax_number: +1.901.284.6600
 company_email: info@SMART-Corporation.com
 google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.283315714017!2d-71.19454598472583!3d42.442987679181336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e39df875856f09%3A0x96423ac9bb4b9a9!2sSMART%20Corporation!5e0!3m2!1sen!2sus!4v1659290723527!5m2!1sen!2sus
 
