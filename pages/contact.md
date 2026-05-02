@@ -11,15 +11,15 @@ For any query related to our services, for receiving a free consultation or for 
 Please feel free to contact us in your nearest locations!!
 
 ## Corporate Headquarters:
-8 Fairlawn Lane, Suite 1-101<br>
-Lexington, MA 02420-2728<br>
+12 Manomet Point Road, Suite 293<br>
+Plymouth, MA 02345-0293<br>
 United States of America<br>
 Tel: +1-781-266-2004<br>
 Fax: +1-901-284-6600<br>
 
 ## Southeast Asian Operations:
 26-G Banani Model Town<br>
-Road No. 7, Dhaka-1212<br>
+Road No. 7, Dhaka-1213<br>
 Bangladesh<br>
 Tel: +880-2-8824560<br>
 Fax: +880-2-8821414<br>
